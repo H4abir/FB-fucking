@@ -31,28 +31,24 @@ main_menu = ('''
 \033[1;91m[\033[1;97m0\033[1;91m]\033[1;92m Exit
 \033[1;91mbrutex\033[1;97m>>\033[1;92m ''')
 banr = ("""\033[1;92m   
-import sys
-2 print("THIS IS MY LOGO")
-ROC
-OOT OF cYaLF
-4 usern="ABIR69"
-passwd="69"
-inpuser=str(input('Enter Your Username: "))
-8 inppass=str(input ("Enter Your Password: ")
-10 if usern==inpuser and passwd==inppass:
-print("|/] User & Password Correct!")
-pass
-13 else:
-print("(x] Wrong User or Password !")
-sys.exit()
-17 print("I Am Trying to Set Up A Password")
-print("Welcome To Root Of Cyber")
+
 .------..------..------..------.     .------..------.       
 |A.--. ||B.--. ||I.--. ||R.--. |.-.  |T.--. ||S.--. |.-.    
 | (\/) || :(): || (\/) || :(): ((5)) | :/\: || :/\: ((5))   
 | :\/: || ()() || :\/: || ()() |'-.-.| (__) || :\/: |'-.-.  
 | '--'A|| '--'B|| '--'I|| '--'R| ((1)) '--'T|| '--'S| ((1)) 
 `------'`------'`------'`------'  '-'`------'`------'  '-'  
+import sys
+usern="ABIR69"
+passwd="69"
+inpuser=str(input('Enter Your Username: "))
+8 inppass=str(input ("Enter Your Password: ")
+10 if usern==inpuser and passwd==inppass:
+print("|/] User & Password Correct!")
+pass
+else:
+print("(x] Wrong User or Password !")
+sys.exit()
 
 
 \033[1;91m<═══\033[1;41m\033[1;97m Created by MrHacker-X \033[;0m\033[1;91m═══>\033[1;92m""")
