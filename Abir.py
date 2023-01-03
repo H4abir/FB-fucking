@@ -169,7 +169,7 @@ def hackbook():
 
 
 # main script start
-os.system("xdg-open https://youtube.com/@Technolex")
+os.system("xdg-open https://www.facebook.com/profile.php?id=100000267789352&mibextid=ZbWKwL")
 time.sleep(5)
 
 while True:
