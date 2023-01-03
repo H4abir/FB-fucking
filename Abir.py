@@ -1,16 +1,3 @@
-import sys
-usern="ABIR69"
-passwd="ABIR69"
-inpuser=str(input("Enter Your Username: ")
-inppas=str(input("Enter Your Password : ")
-if usern==inpuser and passwd==inppass:
-print("[/ User & Password Correct!")
-pass
-else:
-print("[x] Wrong User or Password !")
-sys.exit)
-
-
 
 from __future__ import absolute_import
 from __future__ import print_function
@@ -44,7 +31,19 @@ main_menu = ('''
 \033[1;91m[\033[1;97m0\033[1;91m]\033[1;92m Exit
 
 \033[1;91mbrutex\033[1;97m>>\033[1;92m ''')
-
+import sys
+usern="ABIR69"
+passwd="ABIR69"
+inpuser=str(input("Enter Your Username: ")
+inppas=str(input("Enter Your Password : ")
+if usern==inpuser and passwd==inppass:
+print("[/ User & Password Correct!")
+pass
+else:
+print("[x] Wrong User or Password !")
+sys.exit)
+print("I Am Trying to Set Up A Password")
+print("Welcome To Root Of Cyber")
 banr = ("""\033[1;92m   
 
 .------..------..------..------.     .------..------.       
