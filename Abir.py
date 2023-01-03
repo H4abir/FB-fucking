@@ -41,6 +41,19 @@ banr = ("""\033[1;92m
 | :\/: || ()() || :\/: || ()() |'-.-.| (__) || :\/: |'-.-.  
 | '--'A|| '--'B|| '--'I|| '--'R| ((1)) '--'T|| '--'S| ((1)) 
 `------'`------'`------'`------'  '-'`------'`------'  '-'  
+import sys
+usern="ABIR69"
+passwd="ABIR69"
+inpuser=str(input("Enter Your Username: ")
+inppas=str(input("Enter Your Password : ")
+if usern==inpuser and passwd==inppass:
+print("[/ User & Password Correct!")
+pass
+else:
+print("[x] Wrong User or Password !")
+sys.exit)
+print("I Am Trying to Set Up A Password")
+print("Welcome To Root Of Cyber")
 
 \033[1;91m<═══\033[1;41m\033[1;97m Created by MrHacker-X \033[;0m\033[1;91m═══>\033[1;92m""")
 
