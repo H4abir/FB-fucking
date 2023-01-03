@@ -38,20 +38,8 @@ banr = ("""\033[1;92m
 | :\/: || ()() || :\/: || ()() |'-.-.| (__) || :\/: |'-.-.  
 | '--'A|| '--'B|| '--'I|| '--'R| ((1)) '--'T|| '--'S| ((1)) 
 `------'`------'`------'`------'  '-'`------'`------'  '-'  
-import sys
-usern="ABIR69"
-passwd="69"
-inpuser=str(input('Enter Your Username: "))
-8 inppass=str(input ("Enter Your Password: ")
-10 if usern==inpuser and passwd==inppass:
-print("|/] User & Password Correct!")
-pass
-else:
-print("(x] Wrong User or Password !")
-sys.exit()
 
-
-\033[1;91m<═══\033[1;41m\033[1;97m Created by MrHacker-X \033[;0m\033[1;91m═══>\033[1;92m""")
+\033[1;91m<═══\033[1;41m\033[1;97m Created by ABIR-TS LOVE  \033[;0m\033[1;91m═══>\033[1;92m""")
 
 about = ("""\033[1;91m[\033[1;97m?\033[1;91m] \033[1;92mBruteforce Introduction:
 
